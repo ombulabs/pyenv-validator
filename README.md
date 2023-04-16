@@ -44,8 +44,6 @@ THIS_IS_A_REQUIRED_EMAIL=123 #required,format=email
 
 ## Formats
 
-- `int` or `integer` or `Integer`
-- `float` or `Float` (note that all integers are floats too)
 - `str` or `string` or `String` (accepts anything)
 - `email` (checks value against `/[\w@]+@[\w@]+\.[\w@]+/`)
 - `url` (checks value against `/https?:\/\/.+/`)
