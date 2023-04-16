@@ -14,7 +14,7 @@ pip install pyenv-validator
 Add the package to your `requirements.txt` file:
 
 ```txt
-pyenv_validator~=0.1.0
+pyenv_validator~=0.2.0
 ```
 
 In your pipeline, add:
