@@ -21,6 +21,5 @@ setup(
     ],
     package_dir={"": "src"},
     packages=find_packages(where="src"),
-    python_requires=">=3.10",
-    filename="dist/pyenv_validator-0.1.1-py3-none-any.whl"
+    python_requires=">=3.10"
 )
