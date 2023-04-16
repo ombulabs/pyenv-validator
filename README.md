@@ -1,5 +1,7 @@
 # Pyenv Validator
 
+[![PyPI version](https://badge.fury.io/py/pyenv-validator.svg)](https://badge.fury.io/py/pyenv-validator)
+
 This package validates `.env` variables. You can configure validation rules by 
 adding the appropriate comments to the `.env.example` file.
 
